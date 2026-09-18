@@ -110,24 +110,28 @@ Sistema web desenvolvido para auxiliar no gerenciamento da biblioteca escolar.
 
 ### 🤖 Robótica Educacional
 
-Projetos desenvolvidos com alunos utilizando **Arduino, sensores, servomotores e componentes eletrônicos**.
+Projetos desenvolvidos com alunos utilizando **Arduino, sensores, servomotores e componentes eletrônicos**, integrando programação e automação.
 
 **Projetos em desenvolvimento:**
 
 🗑️ **Lixeira Inteligente**
-Lixeira automatizada utilizando sensor ultrassônico, servo motor e Arduino.
+Lixeira automatizada utilizando **Arduino, sensor ultrassônico, servo motor e LEDs**, permitindo a abertura automática da tampa.
 
 ⚽ **Goleiro Controlado por Joystick**
-Protótipo de goleiro desenvolvido para uma atividade de robótica, com controle por joystick e servomotor.
+Protótipo de goleiro desenvolvido para uma atividade de robótica, utilizando **Arduino, joystick e servomotor** para controlar os movimentos do goleiro.
 
 🚧 **Cancela Automatizada**
-Projeto de automação desenvolvido para representar o controle de entrada e saída de veículos.
+Sistema de automação desenvolvido para controle de acesso, integrando **Arduino, Python, PHP e MySQL**.
+
+O projeto utiliza o **Arduino** para controlar a cancela e os componentes eletrônicos, enquanto o **Python** realiza a comunicação entre o Arduino e o sistema. A aplicação web desenvolvida em **PHP** permite o controle e monitoramento, utilizando o **MySQL** para armazenar os dados.
+
+O sistema foi pensado para utilização no ambiente escolar, permitindo o controle de acesso por meio da **matrícula**.
 
 ---
 
 ### 💡 Tecnologia e Educação
 
-Meus projetos buscam unir **programação, eletrônica e educação**, proporcionando aos alunos oportunidades de aprender tecnologia por meio da construção de soluções práticas.
+Meus projetos buscam unir **programação, banco de dados, eletrônica e educação**, proporcionando aos alunos oportunidades de aprender tecnologia por meio da construção de soluções práticas.
 
 
 ⭐ **Seja bem-vindo ao meu perfil!**
