@@ -88,12 +88,46 @@ Desenvolvimento de projetos com Arduino e componentes eletrônicos em atividades
 
 📧 **Contato:** [wrsrocha@gmail.com](mailto:wrsrocha@gmail.com)
 
+## 🚀 Projetos em destaque
+
+### 📚 Sistema de Biblioteca Escolar
+
+Sistema web desenvolvido para auxiliar no gerenciamento da biblioteca escolar.
+
+**Principais recursos:**
+
+* Cadastro e consulta de livros
+* Cadastro de alunos e usuários
+* Controle de empréstimos e devoluções
+* Leitura de códigos de barras
+* Geração de etiquetas
+* Registro de atividades
+* Banco de dados MySQL
+
+🔗 [Ver projeto no GitHub](https://github.com/professorwesleyrocha/biblioteca)
+
 ---
 
-## 📊 GitHub
+### 🤖 Robótica Educacional
 
-<img src="https://github-readme-stats.vercel.app/api?username=professorwesleyrocha" alt="GitHub Stats">
+Projetos desenvolvidos com alunos utilizando **Arduino, sensores, servomotores e componentes eletrônicos**.
+
+**Projetos em desenvolvimento:**
+
+🗑️ **Lixeira Inteligente**
+Lixeira automatizada utilizando sensor ultrassônico, servo motor e Arduino.
+
+⚽ **Goleiro Controlado por Joystick**
+Protótipo de goleiro desenvolvido para uma atividade de robótica, com controle por joystick e servomotor.
+
+🚧 **Cancela Automatizada**
+Projeto de automação desenvolvido para representar o controle de entrada e saída de veículos.
 
 ---
+
+### 💡 Tecnologia e Educação
+
+Meus projetos buscam unir **programação, eletrônica e educação**, proporcionando aos alunos oportunidades de aprender tecnologia por meio da construção de soluções práticas.
+
 
 ⭐ **Seja bem-vindo ao meu perfil!**
