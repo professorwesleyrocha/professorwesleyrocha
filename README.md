@@ -92,11 +92,7 @@ Desenvolvimento de projetos com Arduino e componentes eletrônicos em atividades
 
 ## 📊 GitHub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=professorwesleyrocha&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub"> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=professorwesleyrocha&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="Linguagens mais utilizadas"> </p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=professorwesleyrocha&theme=dark" alt="GitHub Streak"> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=professorwesleyrocha" alt="GitHub Stats">
 
 ---
 
