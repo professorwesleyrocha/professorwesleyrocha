@@ -1,31 +1,109 @@
-![bannergit](https://github.com/professorwesleyrocha/html5css/blob/main/bannergit.png).
+# 👋 Olá! Eu sou Wesley Rocha
 
-<h1 align="center"> Oi 👋, Eu sou Wesley Rocha | Web Designer</h1>
-<h3 align="center">Aqui você pode encontrar projetos em Html, Css, JavaScript, PHP e MySql</h3>
+### 👨‍💻 Professor de Tecnologia | Desenvolvedor Web | Robótica Educacional
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrsrocha&label=Profile%20views&color=0e75b6&style=flat" alt="professorwesleyrocha" /> </p>
+Sou professor na área de tecnologia e informática, apaixonado por programação, desenvolvimento de sistemas e projetos de robótica educacional.
 
-- 🔭 No momento estou trabalhando com **Algoritmo, HTML, CSS, JavaScript, PHP e MySql**
+Atualmente desenvolvo projetos práticos utilizando **PHP, MySQL, HTML, CSS, JavaScript, Git, GitHub e Arduino**, buscando integrar tecnologia e educação no ambiente escolar.
 
-- 🌱 Atualmente estou me dedicando **HTML, CSS e JavaScript**
+---
 
-- 💬 Pergunte-me sobre **MySql**
+## 🚀 Projetos em destaque
 
-- 🌎 Meu Site:https://betterwebdesign.com.br/
+### 📚 Sistema de Biblioteca Escolar
 
-- 📫 Contato: **wrsrocha@gmail.com**
+Sistema web desenvolvido para auxiliar no gerenciamento da biblioteca escolar.
 
-<h3 align="left">Connect with me:</h3>
+O projeto possui recursos para:
+
+* Cadastro e consulta de livros
+* Cadastro de alunos e usuários
+* Controle de empréstimos e devoluções
+* Leitura de códigos de barras
+* Geração de etiquetas
+* Registro de atividades do sistema
+* Banco de dados MySQL
+
+🔗 **[Acessar o projeto Biblioteca](https://github.com/professorwesleyrocha/biblioteca)**
+
+### 🤖 Robótica Educacional
+
+Desenvolvimento de projetos com Arduino e componentes eletrônicos em atividades práticas com alunos.
+
+**Projetos atuais:**
+
+* 🗑️ **Lixeira Inteligente**
+* ⚽ **Goleiro Controlado por Joystick**
+* 🚧 **Cancela Automatizada**
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
 <p align="left">
-<a href="https://instagram.com/wesleyxcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wesleyxcm" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=professorwesleyrocha&show_icons=true&theme=dark&locale=en&layout=compact" alt="professorwesleyrocha" /></p>
+## 🎓 Formação
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=professorwesleyrocha&show_icons=true&theme=dark&locale=en" alt="professorwesleyrocha" /></p>
+* 🎓 **Licenciatura em Computação**
+* 🤖 **Pós-Graduação em Robótica Educacional**
+* 🌎 **Licenciatura em Geografia**
+* 💻 **Tecnologia em Análise e Desenvolvimento de Sistemas**
+* 🖥️ **Técnico em Informática**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=professorwesleyrocha&theme=dark" alt="professorwesleyrocha" /></p>
+---
 
+## 📌 Atualmente
+
+* 👨‍🏫 Professor de Tecnologia e Informática
+* 💻 Desenvolvimento de sistemas web
+* 🗄️ Desenvolvimento com PHP e MySQL
+* 🤖 Projetos de Robótica Educacional
+* 🔧 Projetos com Arduino
+* 📚 Desenvolvimento de soluções para o ambiente escolar
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+<a href="https://github.com/professorwesleyrocha">
+<img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://instagram.com/wesleyxcm">
+<img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
+
+📧 **Contato:** [wrsrocha@gmail.com](mailto:wrsrocha@gmail.com)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=professorwesleyrocha&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=professorwesleyrocha&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="Linguagens mais utilizadas"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=professorwesleyrocha&theme=dark" alt="GitHub Streak"/>
+</p>
+
+---
+
+⭐ **Seja bem-vindo ao meu perfil!**
