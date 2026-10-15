@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou Wesley Rocha
+# Olá! Eu sou Wesley Rocha
 
-### 👨‍💻 Professor de Tecnologia | Desenvolvedor Web | Robótica Educacional
+### Professor de Tecnologia | Desenvolvedor Web | Robótica Educacional
 
 Sou professor na área de tecnologia e informática, apaixonado por programação, desenvolvimento de sistemas e projetos de robótica educacional.
 
