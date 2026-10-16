@@ -1,6 +1,6 @@
 # Aqui você faz aprendendo.
 
-### Professor de Tecnologia | Desenvolvedor Web | Robótica Educacional
+### Aprender, criar, inovar e nunca parar de evoluir.
 
 💡 Meus projetos buscam unir programação, banco de dados, eletrônica e educação, 
 proporcionando aos alunos oportunidades de aprender tecnologia por meio da 
